@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/normal"
+        android:title="普通计算器"/>
+    <item
+        android:id="@+id/science"
+        android:title="科学计算器"/>
+    <item
+        android:id="@+id/jinzhi"
+        android:title="进制转换器"/>
+</menu>
